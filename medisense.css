@@ -1,0 +1,181 @@
+.section-A {
+    background-image: url(Image/1st\ image\ man.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 60%;
+
+}
+
+.firsttxt {
+    color: white;
+    margin-top: 10px;
+    font-weight: bold;
+
+}
+
+.btn1 {
+    padding: 13px 40px;
+    background-color: #2A3A47;
+    border: none;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.btn1:hover {
+    background-color: white;
+    color: black;
+}
+
+
+
+
+.bgimg-2 {
+
+    color: #fff;
+    background-size: cover;
+    background-image: url(Image/2nd\ image\ man.webp);
+    background-position: 50% 50%;
+}
+
+.paragraph-txt1 {
+    box-sizing: border-box;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.btn2 {
+    margin-top: 20px;
+    padding: 15px 30px;
+    border: none;
+    background-color: #2285d9;
+    color: white;
+    font-size: 14px;
+
+}
+
+.btn2:hover {
+    background-color: white;
+    color: rgb(51, 5, 217);
+
+}
+
+.bgimg-3 {
+
+    background-image: url(Image/3rd\ image...............webp);
+    background-position: 50% 50%;
+    color: #fff;
+    background-size: cover;
+}
+
+.paragraph-txt2 {
+    justify-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-sizing: border-box;
+}
+
+
+
+
+.border-line-ht {
+
+    font-size: 20px;
+    color: #364146;
+    border-style: solid;
+    font-weight: 600;
+    line-height: 1.3em;
+    padding: 25px 20px;
+    border-width: 0 0 0 4px;
+}
+
+.btn3 {
+    background-color: #2285d9;
+    color: #fff;
+    padding: 13px 50px;
+    border: none;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 10px;
+
+}
+
+
+
+
+.btn4 {
+    justify-content: center;
+    color: white;
+    background-color: #2285d9;
+    font-weight: 400;
+    font-size: 14px;
+    margin-bottom: 15px;
+    line-height: 1.2em;
+    padding: 10px 40px;
+    border: none;
+}
+
+
+.btn6 {
+    background-color: #364146;
+    color: white;
+    padding: 13px 40px;
+}
+
+
+/* ....................................ROW 6.............................................................................. */
+
+
+.bg2-img-2 {
+    margin-top: 150px;
+    display: flex;
+    background-color: #7C949E;
+    background-position: 50% 50%;
+    color: #fff;
+    background-size: cover;
+
+}
+
+.img-doctor {
+    margin-top: -130px;
+
+
+}
+
+.btn5 {
+    margin-top: 20px;
+    justify-content: center;
+    color: white;
+    background-color: #364146;
+    font-weight: 500;
+    font-size: 14px;
+    margin-bottom: 15px;
+    line-height: 1.2em;
+    padding: 18px 60px;
+    border: none;
+}
+
+.btn5:hover {
+    background-color: white;
+    color: black;
+}
+
+table,
+tr,
+td,
+th {
+    border: 2px solid rgba(182, 161, 161, 0.5);
+
+}
+
+table {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+
+}
+
+.E-heading-1 p {
+    color: rgb(99, 96, 96);
+    margin-bottom: 25px;
+}
